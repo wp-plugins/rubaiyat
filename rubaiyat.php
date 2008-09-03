@@ -2,7 +2,7 @@
 /*
 Plugin Name: Rubaiyat
 Plugin URI: http://www.verso.co.nz/resources
-Description: Displays a random 4-line stanza from the Rubaiyat of Omar Khayyam on the dashboard page. Based on Matt Mullenweg's 'Hello Dolly' plugin. 
+Description: Displays a random 4-line stanza from the Rubaiyat of Omar Khayyam on the dashboard page. Based on Matt Mullenweg's 'Hello Dolly' plugin, but provides more poetic reminders of our own mortality ;-) 
 Author: Paul Left
 Version: 0.1
 Author URI: http://www.verso.co.nz/about/
