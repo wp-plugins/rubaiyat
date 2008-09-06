@@ -2,7 +2,6 @@
 Contributors: pleft
 Donate link: http://www.verso.co.nz/resources/plugins/
 Tags: rubaiyat, random quote
-Requires at least: unknown
 Tested up to: 2.6
 Stable tag: trunk
 
