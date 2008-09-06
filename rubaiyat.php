@@ -4,7 +4,7 @@ Plugin Name: Rubaiyat
 Plugin URI: http://www.verso.co.nz/resources
 Description: based on Matt Mullenweg's 'Hello Dolly' plugin. 
 Author: Paul Left
-Version: 0.1
+Version: 1.0
 Author URI: http://www.verso.co.nz/about/
 */
 
